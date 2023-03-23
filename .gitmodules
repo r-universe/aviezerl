@@ -8,3 +8,8 @@
 	url = https://github.com/aviezerl/babynamesil
 	shallow = true
 	registered = true
+[submodule "labNorm"]
+	path = labNorm
+	url = https://github.com/cran/labNorm
+	shallow = true
+	registered = true
